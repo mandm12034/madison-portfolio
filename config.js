@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter phantom', // <title>
+  siteTitle: 'Madison Merritt Website', // <title>
   manifestName: 'Phantom',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
