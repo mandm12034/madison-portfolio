@@ -22,7 +22,7 @@ export default function Footer() {
           </ul>
         </section>
         <ul className="copyright">
-          <li>&copy; Phantom. All rights reserved</li>
+          <li>&copy; Madison Merritt. All rights reserved</li>
           <li>
             Design: <a href="http://html5up.net">HTML5 UP</a>
           </li>

@@ -17,14 +17,18 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h1>
-            This is Madison, a free, fully responsive gatsby starter
+            My name is Madison, and this is my website.
             <br />
           </h1>
           <p>
-            Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit
-            amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis
-            venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem
-            ipsum dolor sit amet nullam dolore.
+            I have many years of academic experience, not only from attending Florida State
+            but also Valencia College on the Osceola County campus. I have taken courses on
+            business management, the Microsoft Office suite, and many other prerequisites required
+            for my major, all before I graduated high school. I am currently enrolled in Big Data,
+            Programming 1, and Business Intelligence. I also have some experience with SQL Server,
+            and I am currently learning the basics of C++ and data science in order to further enhance
+            my knowledge in this field of study.
+
           </p>
         </header>
         <section className="tiles">
@@ -33,11 +37,10 @@ const IndexPage = () => (
               <img src={pic1} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Magna</h2>
+              <h2>Data Analysis</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in data analysis.
                 </p>
               </div>
             </Link>
@@ -47,11 +50,10 @@ const IndexPage = () => (
               <img src={pic2} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Lorem</h2>
+              <h2>SQL</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in SQL.
                 </p>
               </div>
             </Link>
@@ -61,11 +63,10 @@ const IndexPage = () => (
               <img src={pic3} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Feugiat</h2>
+              <h2>Management</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in business management.
                 </p>
               </div>
             </Link>
@@ -75,11 +76,10 @@ const IndexPage = () => (
               <img src={pic4} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Tempus</h2>
+              <h2>C++</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in C++.
                 </p>
               </div>
             </Link>
@@ -89,11 +89,10 @@ const IndexPage = () => (
               <img src={pic5} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Aliquam</h2>
+              <h2>Tableau</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in Tableau.
                 </p>
               </div>
             </Link>
@@ -103,99 +102,16 @@ const IndexPage = () => (
               <img src={pic6} alt="" />
             </span>
             <Link to="/Generic">
-              <h2>Veroeros</h2>
+              <h2>Service</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                  My experience in customer service.
                 </p>
               </div>
             </Link>
           </article>
-          <article className="style2">
-            <span className="image">
-              <img src={pic1} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Ipsum</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style3">
-            <span className="image">
-              <img src={pic2} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Dolor</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style1">
-            <span className="image">
-              <img src={pic3} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Nullam</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style5">
-            <span className="image">
-              <img src={pic4} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Ultricies</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style6">
-            <span className="image">
-              <img src={pic5} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Dictum</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style4">
-            <span className="image">
-              <img src={pic6} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Pretium</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
+          
+          
         </section>
       </div>
     </div>
