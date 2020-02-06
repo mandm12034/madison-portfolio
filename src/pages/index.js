@@ -36,7 +36,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic1} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>Data Analysis</h2>
               <div className="content">
                 <p>
@@ -49,7 +49,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic2} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>SQL</h2>
               <div className="content">
                 <p>
@@ -62,7 +62,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic3} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>Management</h2>
               <div className="content">
                 <p>
@@ -75,7 +75,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic4} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>C++</h2>
               <div className="content">
                 <p>
@@ -88,7 +88,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic5} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>Tableau</h2>
               <div className="content">
                 <p>
@@ -101,7 +101,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic6} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/">
               <h2>Service</h2>
               <div className="content">
                 <p>
@@ -110,8 +110,6 @@ const IndexPage = () => (
               </div>
             </Link>
           </article>
-          
-          
         </section>
       </div>
     </div>
