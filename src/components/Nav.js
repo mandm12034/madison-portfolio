@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-export default function Nav({ onClose = () => {} }) {
+export default function Nav({ onClose = () => { } }) {
   return (
     <nav id="menu">
       <div className="inner">
@@ -11,10 +11,10 @@ export default function Nav({ onClose = () => {} }) {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/Generic">Generic Page</Link>
+            <Link to="/Generic">About</Link>
           </li>
           <li>
-            <Link to="/Elements">Elements</Link>
+            <Link to="/Elements">Contact</Link>
           </li>
         </ul>
       </div>
