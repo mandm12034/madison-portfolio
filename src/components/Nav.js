@@ -11,10 +11,10 @@ export default function Nav({ onClose = () => { } }) {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/Generic">About</Link>
+            <Link to="/About">About</Link>
           </li>
           <li>
-            <Link to="/Elements">Contact</Link>
+            <Link to="/Contact">Contact</Link>
           </li>
         </ul>
       </div>
