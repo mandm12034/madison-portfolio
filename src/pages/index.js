@@ -36,7 +36,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic1} alt="" />
             </span>
-            <Link to="/">
+            <Link to="/Data">
               <h2>Data Analysis</h2>
               <div className="content">
                 <p>
@@ -49,7 +49,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic2} alt="" />
             </span>
-            <Link to="/">
+            <Link to="/SQL">
               <h2>SQL</h2>
               <div className="content">
                 <p>
@@ -62,7 +62,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic3} alt="" />
             </span>
-            <Link to="/">
+            <Link to="/Management">
               <h2>Management</h2>
               <div className="content">
                 <p>
@@ -75,7 +75,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic4} alt="" />
             </span>
-            <Link to="/">
+            <Link to="/C">
               <h2>C++</h2>
               <div className="content">
                 <p>
@@ -101,7 +101,7 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic6} alt="" />
             </span>
-            <Link to="/">
+            <Link to="/Service">
               <h2>Service</h2>
               <div className="content">
                 <p>
