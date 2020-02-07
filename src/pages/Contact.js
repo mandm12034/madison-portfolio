@@ -11,8 +11,10 @@ const IndexPage = () => (
         <span className="image main">
           <img src={Contact} alt="" />
         </span>
+        <h2>My mailbox is always open for new opportunities.
+          <br/>Please feel free to reach out!</h2>
         <p>
-          Please contact me.
+          <b>EMAIL:</b> mandm12034@gmail.com
         </p>
       </div>
     </div>
