@@ -88,14 +88,14 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic5} alt="" />
             </span>
-            <Link to="/">
+            <a href="https://public.tableau.com/profile/madison.merritt#!/?newProfile=&activeTab=0">
               <h2>Tableau</h2>
               <div className="content">
                 <p>
                   My experience in Tableau.
                 </p>
               </div>
-            </Link>
+            </a>
           </article>
           <article className="style6">
             <span className="image">
