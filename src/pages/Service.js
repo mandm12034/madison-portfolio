@@ -1,16 +1,12 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic1 from '../assets/images/01.jpg';
 
 const IndexPage = () => (
   <Layout>
     <div id="main">
       <div className="inner">
         <h1>Service</h1>
-        <span className="image main">
-          <img src={pic1} alt="" />
-        </span>
         <p>
         I have worked in service for almost 5 years now. 
         I have worked my first job at Dairy Queen to my most 
