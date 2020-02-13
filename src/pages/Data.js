@@ -12,27 +12,28 @@ const IndexPage = () => (
           <img src={pic1} alt="" />
         </span>
         <p>
-          I love data.
+        While earning my degree in Management Information Systems, 
+        I have been enrolled in classes like MIS analysis and Design 
+        and Intro to Business Analytics. Data Analysis is always changing 
+        and I learn more and more every day about it.
         </p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-          rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh
-          porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc
-          ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit
-          sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris,
-          fringilla in aliquam at, euismod in lectus. Pellentesque habitant
-          morbi tristique senectus et netus et malesuada fames ac turpis
-          egestas. In non lorem sit amet elit placerat maximus. Pellentesque
-          aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+        I am also enrolled in Big Data which helps me learn the ropes of how
+         to analyze big data. Since this is only a semester long class, I am only 
+        learning the basics of one software – Orange. So far we have covered data 
+        cleansing and machine learning, which makes me really excited to learn 
+        more about it.
         </p>
         <p>
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent
-          rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo
-          mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget
-          turpis at, elementum convallis elit. Pellentesque enim turpis,
-          hendrerit tristique lorem ipsum dolor.
+        I am also taking Business Intelligence which deals with how to 
+        basically visualize big data. We are using the software Tableau, 
+        which is linked in the “Tableau” tab of my website if you would 
+        like to look at my public account. Basically, we have learned how 
+        to join data, and build some basic charts like bar charts and 
+        line charts, but we have also gotten into learning a little bit 
+        more about some more complex visualizations like heat maps and 
+        tree maps as well. I update my Tableau Public account around 
+        every other week.
         </p>
       </div>
     </div>
