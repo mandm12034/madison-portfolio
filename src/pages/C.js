@@ -1,38 +1,28 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic1 from '../assets/images/01.jpg';
 
 const IndexPage = () => (
   <Layout>
     <div id="main">
       <div className="inner">
         <h1>C++</h1>
-        <span className="image main">
-          <img src={pic1} alt="" />
-        </span>
         <p>
-          I love C++.
+        C++ is my newest adventure in college. 
+        I knew absolutely nothing about programming 
+        or code until I enrolled in Programming 1. 
+        Programming 1 teaches the very basics of C++, 
+        but I am excited to gain more knowledge about it 
+        as we go further into the semester.
         </p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-          rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh
-          porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc
-          ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit
-          sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris,
-          fringilla in aliquam at, euismod in lectus. Pellentesque habitant
-          morbi tristique senectus et netus et malesuada fames ac turpis
-          egestas. In non lorem sit amet elit placerat maximus. Pellentesque
-          aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
-        </p>
-        <p>
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent
-          rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo
-          mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget
-          turpis at, elementum convallis elit. Pellentesque enim turpis,
-          hendrerit tristique lorem ipsum dolor.
+        While I haven’t even scratched the surface of 
+        C++, I am venturing into new territory with Java, 
+        and I have built this whole website with Java 
+        (and with the help of my brother). My brother has 
+        taught me only the few commands that it takes to 
+        update and create new pages, but I feel very accomplished 
+        to have built a whole website basically by myself.
         </p>
       </div>
     </div>
