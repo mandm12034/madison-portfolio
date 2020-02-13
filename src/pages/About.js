@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic1 from '../assets/images/01.jpg';
+import MadisonFSU from '../assets/images/MadisonFSU.jpeg';
 
 const IndexPage = () => (
   <Layout>
@@ -9,7 +9,7 @@ const IndexPage = () => (
       <div className="inner">
         <h1>About Me</h1>
         <span className="image main">
-          <img src={pic1} alt="" />
+          <img src={MadisonFSU} alt="" />
         </span>
         <p>
           I am currently a senior at Florida State University majoring
