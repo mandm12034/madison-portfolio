@@ -17,8 +17,8 @@ const IndexPage = () => (
         </p>
         <p>
         While I haven’t even scratched the surface of 
-        C++, I am venturing into new territory with Java, 
-        and I have built this whole website with Java 
+        C++, I am venturing into new territory with JavaScript, 
+        and I have built this whole website with JavaScript 
         (and with the help of my brother). My brother has 
         taught me only the few commands that it takes to 
         update and create new pages, but I feel very accomplished 
