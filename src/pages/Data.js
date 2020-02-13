@@ -1,16 +1,12 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic1 from '../assets/images/01.jpg';
 
 const IndexPage = () => (
   <Layout>
     <div id="main">
       <div className="inner">
         <h1>Data Analysis</h1>
-        <span className="image main">
-          <img src={pic1} alt="" />
-        </span>
         <p>
         While earning my degree in Management Information Systems, 
         I have been enrolled in classes like MIS analysis and Design 
