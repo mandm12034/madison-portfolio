@@ -8,10 +8,10 @@ const IndexPage = () => (
       <div className="inner">
         <h1>C++</h1>
         <p>
-        My last semester in college, it took up learning programming. That led me to C++.
+        My last semester in college, I took up learning programming. That led me to C++.
         I knew absolutely nothing about programming or code until I enrolled in Programming 1. 
-        Programming 1 teaches the very basics of C++, But I felt I learned more than just the basics.
-        I was taught everything from "cout" to "cin", functions, arrays, and other topics.
+        Programming 1 teaches the very basics of C++, but I felt I learned more than just the basics.
+        I was taught everything from "cout" to "cin", functions, arrays, and other topics. 
         </p>
         <p>
         While I still haven’t even scratched the surface of 
