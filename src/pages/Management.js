@@ -16,7 +16,7 @@ const IndexPage = () => (
         so much useful information that I still use to this day.
         </p>
         <p>
-        Now, in college, I started looking at more advanced 
+        While in college, I started looking at more advanced 
         management classes - Legal and Ethical Environment of 
         Business, Financial Management of the Firm, Business 
         Communications, Organizational Behavior, and Strategic 
