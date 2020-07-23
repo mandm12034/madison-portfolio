@@ -4,6 +4,7 @@ export default function ContactForm() {
     <section>
       <h2>Get in touch</h2>
       <p>
+        I am currently searching for roles in data analysis and data entry.<br/>
         If I seem like a good fit for a role in your company, please do not hesitate to reach out!
       </p>
       <p>
