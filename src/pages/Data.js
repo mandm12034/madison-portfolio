@@ -14,14 +14,14 @@ const IndexPage = () => (
         and strive to learn more every day about it.
         </p>
         <p>
-        I was also enrolled in Big Data which helped me learn the ropes of how
-         to analyze big data. Since this is only a semester long class, I am only 
-        learning the basics of one software – Orange. So far we have covered data 
-        cleansing and machine learning, which makes me really excited to learn 
-        more about it.
+        I was also enrolled in <b>Big Data</b> which helped me learn the ropes of how
+         to analyze big data. Since this was only a semester long class, I only 
+        learning the basics of one software – Orange. We covered data 
+        cleansing and Machine Learning(ML), which are essential tools in the modern enterprise
+        IT environment.
         </p>
         <p>
-        I also took Business Intelligence which deals with how to 
+        I also took <b>Business Intelligence</b> which deals with how to 
         visualize big data. We used the software, Tableau, 
         which is linked in the “Tableau” tab of my website if you would 
         like to look at my public account. My class taught me how 
