@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import MadisonFSU from '../assets/images/MadisonFSU.jpeg';
+import MadisonGradPic from '../assets/images/MadisonGradPic.jpeg';
 
 const IndexPage = () => (
   <Layout>
@@ -9,15 +9,12 @@ const IndexPage = () => (
       <div className="inner">
         <h1>About Me</h1>
         <span className="image main">
-          <img src={MadisonFSU} alt="" />
+          <img src={MadisonGradPic} alt=""/>
         </span>
         <p>
-          I am currently a senior at Florida State University majoring
-          in Management Information Systems and minoring in Hospitality
-          Management. <br/><br/>
-          I am involved on campus with my sorority, Alpha Gamma Delta. I currently
-          volunteer with my sisters in a variety of charitable partnerships in the Tallahassee
-          community.
+          I am proud to say that I am a graduate from Florida State University
+          with a bachelor's degree in Management Information Systems and a minor
+          in Hospitality Management.<br/>
         </p>
       </div>
     </div>
