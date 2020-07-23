@@ -8,8 +8,8 @@ const IndexPage = () => (
       <div className="inner">
         <h1>Service</h1>
         <p>
-        I have worked in service for almost 5 years now. 
-        I have worked my first job at Dairy Queen to my most 
+        I have worked in service for more than 5 years now. 
+        My first job at Dairy Queen brought me the most experience, and helped me get my most
         previous job at Subway right on FSU’s campus. My service 
         jobs have taught me a lot of skills that I would like to 
         take into my career. I have learned a lot about leadership 
@@ -20,7 +20,7 @@ const IndexPage = () => (
         My experience in service has also inspired me to look into
         getting a minor in Hospitality Management. FSU’s college 
         of Hospitality has the most fun and rewarding classes
-        I will ever take at school. I have taken International
+        I will ever take at school. I took International
         Protocol, where I learned about how every country operates
         and how to interact with them based on their cultures.
         I also took interesting classes such as Distilled Spirits
