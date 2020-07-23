@@ -8,7 +8,7 @@ const IndexPage = () => (
       <div className="inner">
         <h1>SQL</h1>
         <p>
-        Last year, I took a class called Database Management 
+        While in college, I took a class called Database Management 
         which helped me learn more about the basics of SQL Server. 
         In order to have SQL server work on my Mac, I also had to 
         install a virtual machine on my computer. This process 
